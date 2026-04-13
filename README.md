@@ -106,12 +106,15 @@ rahmat@system:~$ ls -la projects/
 ## > stats --github
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahmatHadinata23758051&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatHadinata23758051&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160">
+  <img src="https://github-stats-alpha.vercel.app/api?username=RahmatHadinata23758051&cc=0d1117&tc=00ff88&ic=79c0ff&bc=30363d" height="160">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmatHadinata23758051&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://streak-stats.demolab.com/?user=RahmatHadinata23758051&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="155">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatHadinata23758051&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200">
 </p>
 
 ---
@@ -119,7 +122,7 @@ rahmat@system:~$ ls -la projects/
 ## > activity --graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahmatHadinata23758051&theme=github-dark&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahmatHadinata23758051&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="100%">
 </p>
 
 ---

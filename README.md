@@ -5,14 +5,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00AA55&center=true&vCenter=true&width=600&lines=IoT+Engineer;Web+Developer;CTF+Player;AI+%26+ML+Builder;Security+Researcher" alt="Role typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00AA55&center=true&vCenter=true&width=600&lines=Web+Developer;CTF+Player;AI+%26+ML+Builder;Security+Researcher;Full+Stack+Engineer" alt="Role typing"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RahmatHadinata23758051&color=0969da&style=flat-square&label=profile+views"/>
   <img src="https://img.shields.io/github/followers/RahmatHadinata23758051?color=0969da&style=flat-square&label=followers"/>
   <img src="https://img.shields.io/badge/status-open%20to%20collab-00aa55?style=flat-square"/>
-  <img src="https://img.shields.io/badge/focus-IoT%20%7C%20Security%20%7C%20AI-0969da?style=flat-square"/>
+  <img src="https://img.shields.io/badge/focus-Web%20%7C%20Security%20%7C%20AI-0969da?style=flat-square"/>
 </p>
 
 ---
@@ -25,7 +25,6 @@
 name       : Rahmat Hadinata
 role       : Internet Engineering Technology Student
 focus      :
-  - IoT & Embedded Systems
   - Web Development (Full Stack)
   - Artificial Intelligence & ML
   - Cybersecurity & CTF
@@ -36,10 +35,16 @@ blog       : https://rblxlabs.vercel.app/
 
 ---
 
-### `$ cat achievements.log`
+### `$ cat certifications.log`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahmatHadinata23758051&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
+<p>
+  <img src="https://img.shields.io/badge/Ethical_Hacker-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNP_Advanced_Routing-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA_Enterprise_Security_%26_Automation-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA_Switching_%26_Routing-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevNet_Associate-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Architecting-AWS_Academy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Classification_%26_Summarization-IBM_SkillsBuild-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
 ---
@@ -62,7 +67,7 @@ blog       : https://rblxlabs.vercel.app/
   <tr>
     <td><b>DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode,arduino,raspberrypi&theme=light"/>
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode&theme=light"/>
     </td>
   </tr>
 </table>
@@ -81,7 +86,7 @@ blog       : https://rblxlabs.vercel.app/
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Web_Exploitation-e74c3c?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web_Exploitation-e74c3c?style=flat-square"/>
   <img src="https://img.shields.io/badge/Reverse_Engineering-e67e22?style=flat-square"/>
   <img src="https://img.shields.io/badge/Network_Forensics-3498db?style=flat-square"/>
   <img src="https://img.shields.io/badge/Digital_Forensics-9b59b6?style=flat-square"/>
@@ -96,22 +101,12 @@ blog       : https://rblxlabs.vercel.app/
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Smart Flood Early Warning System</b><br/>
-      <sub>Real-time IoT water level monitoring with multi-channel alert (SMS, Telegram, Dashboard)</sub><br/><br/>
-      <img src="https://img.shields.io/badge/IoT-00b4d8?style=flat-square"/>
-      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
       <b>Web Vulnerability Scanner</b><br/>
       <sub>Automated OWASP Top 10 based security scanning with detailed HTML reporting</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Security-e74c3c?style=flat-square"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b>Hoax Detection ML</b><br/>
       <sub>NLP text classification for Indonesian misinformation & hoax detection</sub><br/><br/>
@@ -119,12 +114,21 @@ blog       : https://rblxlabs.vercel.app/
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/NLP-9b59b6?style=flat-square"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b>Agricultural Classification</b><br/>
       <sub>AI-based crop classification using computer vision and deep learning</sub><br/><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Computer_Vision-27ae60?style=flat-square"/>
       <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <b>Personal Blog — rblxlabs</b><br/>
+      <sub>Personal dev blog & portfolio built with modern web stack</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -134,13 +138,18 @@ blog       : https://rblxlabs.vercel.app/
 ### `$ stats --github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahmatHadinata23758051&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatHadinata23758051&layout=compact&theme=default&hide_border=true&langs_count=8&bg_color=ffffff&title_color=0969da&text_color=24292f" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahmatHadinata23758051&theme=github" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RahmatHadinata23758051&theme=default&hide_border=true&background=ffffff&stroke=0969da&ring=0969da&fire=ff6b35&currStreakLabel=0969da&sideLabels=0969da&currStreakNum=24292f&sideNums=24292f&dates=57606a" height="155"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahmatHadinata23758051&theme=github" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmatHadinata23758051&theme=github" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahmatHadinata23758051&theme=github" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RahmatHadinata23758051&theme=default&hide_border=true&background=ffffff&stroke=0969da&ring=0969da&fire=ff6b35&currStreakLabel=0969da&sideLabels=0969da&currStreakNum=24292f&sideNums=24292f&dates=57606a" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahmatHadinata23758051&theme=github&utcOffset=7" width="48%"/>
 </p>
 
 ---

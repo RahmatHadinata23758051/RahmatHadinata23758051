@@ -37,14 +37,13 @@ blog       : https://rblxlabs.vercel.app/
 
 ### `$ cat certifications.log`
 
-<p>
-  <img src="https://img.shields.io/badge/Ethical_Hacker-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCNP_Advanced_Routing-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCNA_Enterprise_Security_%26_Automation-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCNA_Switching_%26_Routing-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevNet_Associate-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Architecting-AWS_Academy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Classification_%26_Summarization-IBM_SkillsBuild-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+<p align="center">
+  <img src="assets/badges/ethical-hacker.png" width="110" title="Ethical Hacker — Cisco"/>
+  <img src="assets/badges/ccnp-advanced-routing.png" width="110" title="CCNP Advanced Routing — Cisco"/>
+  <img src="assets/badges/ccna-enterprise-networking-security-and-automation.png" width="110" title="CCNA Enterprise Networking, Security & Automation — Cisco"/>
+  <img src="assets/badges/aws-academy-graduate-cloud-architecting.png" width="110" title="AWS Academy Graduate — Cloud Architecting"/>
+  <img src="assets/badges/data-classification-and-summarization-using-ibm-gra.png" width="110" title="Data Classification & Summarization — IBM SkillsBuild"/>
+  <img src="assets/badges/red-hat-openstack-administration.png" width="110" title="Red Hat OpenStack Administration"/>
 </p>
 
 ---

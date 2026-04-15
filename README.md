@@ -54,19 +54,19 @@ blog       : https://rblxlabs.vercel.app/
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&theme=light"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&theme=dark"/>
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python,postgres,mysql,redis&theme=light"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python,postgres,mysql,redis&theme=dark"/>
     </td>
   </tr>
   <tr>
     <td><b>DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode&theme=light"/>
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode&theme=dark"/>
     </td>
   </tr>
 </table>
@@ -137,18 +137,18 @@ blog       : https://rblxlabs.vercel.app/
 ### `$ stats --github`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahmatHadinata23758051&theme=github" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahmatHadinata23758051&theme=github_dark" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahmatHadinata23758051&theme=github" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmatHadinata23758051&theme=github" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahmatHadinata23758051&theme=github" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahmatHadinata23758051&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahmatHadinata23758051&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahmatHadinata23758051&theme=github_dark" width="32%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RahmatHadinata23758051&theme=default&hide_border=true&background=ffffff&stroke=0969da&ring=0969da&fire=ff6b35&currStreakLabel=0969da&sideLabels=0969da&currStreakNum=24292f&sideNums=24292f&dates=57606a" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahmatHadinata23758051&theme=github&utcOffset=7" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=RahmatHadinata23758051&theme=dark&hide_border=true&background=0d1117&stroke=0969da&ring=0969da&fire=ff6b35&currStreakLabel=0969da&sideLabels=0969da&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahmatHadinata23758051&theme=github_dark&utcOffset=7" width="48%"/>
 </p>
 
 ---
@@ -158,7 +158,7 @@ blog       : https://rblxlabs.vercel.app/
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahmatHadinata23758051/RahmatHadinata23758051/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahmatHadinata23758051/RahmatHadinata23758051/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RahmatHadinata23758051/RahmatHadinata23758051/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RahmatHadinata23758051/RahmatHadinata23758051/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 ---
@@ -166,7 +166,7 @@ blog       : https://rblxlabs.vercel.app/
 ### `$ activity --graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahmatHadinata23758051&bg_color=ffffff&color=0969da&line=0969da&point=ff6b35&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahmatHadinata23758051&bg_color=0d1117&color=58a6ff&line=0969da&point=ff6b35&area=true&area_color=0d1117&hide_border=true" width="100%"/>
 </p>
 
 ---

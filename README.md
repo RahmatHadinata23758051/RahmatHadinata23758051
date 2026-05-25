@@ -54,20 +54,6 @@ blog    : https://rblxlabs.vercel.app/
   </tr>
 </table>
 
----
-
-### `$ stats`
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nattt&theme=dark&hide_border=true&background=0d1117&stroke=333&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nattt&theme=github_dark" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattt&bg_color=0d1117&color=58a6ff&line=0969da&point=58a6ff&area=true&area_color=0d1117&hide_border=true" width="100%"/>
-</p>
-
----
 
 ### `$ contact`
 

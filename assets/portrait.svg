@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="550" viewBox="0 0 490 550" role="img" aria-label="Animated ASCII portrait for Nattt">
+  <title>Nattt / ASCII portrait</title>
+  <rect width="490" height="550" rx="9" fill="#10151b"/>
+  <rect x="0.5" y="0.5" width="489" height="549" rx="8.5" stroke="#2a333d" fill="none"/>
+  <text x="24" y="29" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="600" letter-spacing="1.1" fill="#dce3eb">NATTT / PORTRAIT</text>
+  <text x="466" y="29" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#708090">01 / 02</text>
+  <line x1="24" y1="46" x2="466" y2="46" stroke="#2a333d"/>
+  <defs>
+<clipPath id="reveal-0"><rect x="24" y="75.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="0.55s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-1"><rect x="24" y="85.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="0.65s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-2"><rect x="24" y="95.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="0.74s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-3"><rect x="24" y="105.9" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="0.84s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-4"><rect x="24" y="116.1" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="0.93s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-5"><rect x="24" y="126.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.02s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-6"><rect x="24" y="136.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.12s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-7"><rect x="24" y="146.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.22s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-8"><rect x="24" y="156.9" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.31s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-9"><rect x="24" y="167.1" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.41s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-10"><rect x="24" y="177.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.50s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-11"><rect x="24" y="187.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.59s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-12"><rect x="24" y="197.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.69s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-13"><rect x="24" y="207.9" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.79s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-14"><rect x="24" y="218.1" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.88s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-15"><rect x="24" y="228.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="1.98s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-16"><rect x="24" y="238.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.07s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-17"><rect x="24" y="248.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.17s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-18"><rect x="24" y="258.9" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.26s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-19"><rect x="24" y="269.1" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.35s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-20"><rect x="24" y="279.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.45s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-21"><rect x="24" y="289.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.54s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-22"><rect x="24" y="299.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.64s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-23"><rect x="24" y="309.9" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.74s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-24"><rect x="24" y="320.1" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.83s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-25"><rect x="24" y="330.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="2.92s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-26"><rect x="24" y="340.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.02s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-27"><rect x="24" y="350.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.12s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-28"><rect x="24" y="360.9" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.21s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-29"><rect x="24" y="371.1" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.30s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-30"><rect x="24" y="381.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.40s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-31"><rect x="24" y="391.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.50s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-32"><rect x="24" y="401.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.59s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-33"><rect x="24" y="411.9" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.69s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-34"><rect x="24" y="422.1" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.78s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-35"><rect x="24" y="432.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.88s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-36"><rect x="24" y="442.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="3.97s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-37"><rect x="24" y="452.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="4.07s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-38"><rect x="24" y="462.9" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="4.16s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-39"><rect x="24" y="473.1" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="4.25s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-40"><rect x="24" y="483.3" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="4.35s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-41"><rect x="24" y="493.5" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="4.45s" dur="0.48s" fill="freeze" /></rect></clipPath>
+<clipPath id="reveal-42"><rect x="24" y="503.7" width="0" height="12.2"><animate attributeName="width" from="0" to="446" begin="4.54s" dur="0.48s" fill="freeze" /></rect></clipPath>
+</defs>
+<text x="24" y="84.0" xml:space="preserve" clip-path="url(#reveal-0)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="94.2" xml:space="preserve" clip-path="url(#reveal-1)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="104.4" xml:space="preserve" clip-path="url(#reveal-2)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="114.6" xml:space="preserve" clip-path="url(#reveal-3)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="124.8" xml:space="preserve" clip-path="url(#reveal-4)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="135.0" xml:space="preserve" clip-path="url(#reveal-5)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="145.2" xml:space="preserve" clip-path="url(#reveal-6)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="155.4" xml:space="preserve" clip-path="url(#reveal-7)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="165.6" xml:space="preserve" clip-path="url(#reveal-8)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="175.8" xml:space="preserve" clip-path="url(#reveal-9)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="186.0" xml:space="preserve" clip-path="url(#reveal-10)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="196.2" xml:space="preserve" clip-path="url(#reveal-11)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="206.4" xml:space="preserve" clip-path="url(#reveal-12)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="216.6" xml:space="preserve" clip-path="url(#reveal-13)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="226.8" xml:space="preserve" clip-path="url(#reveal-14)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="237.0" xml:space="preserve" clip-path="url(#reveal-15)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="247.2" xml:space="preserve" clip-path="url(#reveal-16)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="257.4" xml:space="preserve" clip-path="url(#reveal-17)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="267.6" xml:space="preserve" clip-path="url(#reveal-18)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="277.8" xml:space="preserve" clip-path="url(#reveal-19)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                :@* :@:  #@-  %@@@@%:@@@@@*-@@@@@=</text>
+<text x="24" y="288.0" xml:space="preserve" clip-path="url(#reveal-20)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                =@@ -@- .@@% .@@@@@@:@@@@@*=@@@@@=</text>
+<text x="24" y="298.2" xml:space="preserve" clip-path="url(#reveal-21)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                =@@=:@- +@@@    @@     @%    =@-</text>
+<text x="24" y="308.4" xml:space="preserve" clip-path="url(#reveal-22)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                =@@@:@- @@+@:   @@    .@%    =@=</text>
+<text x="24" y="318.6" xml:space="preserve" clip-path="url(#reveal-23)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                =@=@+@- @@.@*   @@    .@%    =@=</text>
+<text x="24" y="328.8" xml:space="preserve" clip-path="url(#reveal-24)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                -@:@@@-:@@@@@   @@    .@%    =@=</text>
+<text x="24" y="339.0" xml:space="preserve" clip-path="url(#reveal-25)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                -@:-@@:+@%#@@   @@    .@%    =@=</text>
+<text x="24" y="349.2" xml:space="preserve" clip-path="url(#reveal-26)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                =@- @@:@@  +@-  @@    .@@    +@=</text>
+<text x="24" y="359.4" xml:space="preserve" clip-path="url(#reveal-27)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc">                :#. =#.++  .#-  ++    .*=    :#:</text>
+<text x="24" y="369.6" xml:space="preserve" clip-path="url(#reveal-28)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="379.8" xml:space="preserve" clip-path="url(#reveal-29)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="390.0" xml:space="preserve" clip-path="url(#reveal-30)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="400.2" xml:space="preserve" clip-path="url(#reveal-31)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="410.4" xml:space="preserve" clip-path="url(#reveal-32)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="420.6" xml:space="preserve" clip-path="url(#reveal-33)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="430.8" xml:space="preserve" clip-path="url(#reveal-34)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="441.0" xml:space="preserve" clip-path="url(#reveal-35)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="451.2" xml:space="preserve" clip-path="url(#reveal-36)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="461.4" xml:space="preserve" clip-path="url(#reveal-37)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="471.6" xml:space="preserve" clip-path="url(#reveal-38)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="481.8" xml:space="preserve" clip-path="url(#reveal-39)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="492.0" xml:space="preserve" clip-path="url(#reveal-40)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="502.2" xml:space="preserve" clip-path="url(#reveal-41)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<text x="24" y="512.4" xml:space="preserve" clip-path="url(#reveal-42)" font-family="DejaVu Sans Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.85" fill="#c6d1dc"></text>
+<line x1="24" x2="466" y1="503" y2="503" stroke="#2a333d"/>
+  <circle cx="28" cy="526" r="3" fill="#83b9ad"/>
+  <text x="40" y="530" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9.5" fill="#8292a3">PREVIEW ONLY / REPLACE WITH YOUR PHOTO</text>
+  <text x="465" y="530" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#5e6d7a">67 × 43 CHARS</text>
+</svg>

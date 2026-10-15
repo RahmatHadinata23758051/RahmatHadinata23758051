@@ -1,0 +1,51 @@
+name: Refresh profile artwork
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install requirements
+        run: pip install -r scripts/requirements.txt
+      - name: Generate ASCII portrait from local photo or GitHub avatar
+        shell: bash
+        run: |
+          if [ -f assets/source-photo.png ]; then
+            python scripts/make_ascii_svg.py --image assets/source-photo.png
+          elif [ -f assets/source-photo.jpg ]; then
+            python scripts/make_ascii_svg.py --image assets/source-photo.jpg
+          else
+            python scripts/make_ascii_svg.py --fetch-avatar
+          fi
+      - name: Build animated profile card
+        run: python scripts/make_info_svg.py
+      - name: Fetch real contribution data and update heatmap
+        run: |
+          if python scripts/fetch_contributions.py; then
+            python scripts/make_heatmap_svg.py
+          else
+            echo 'Unable to refresh contribution data; keeping last committed graph.'
+          fi
+      - name: Commit changed artwork
+        shell: bash
+        run: |
+          if [[ -n "$(git status --porcelain -- assets/ data/)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/ data/
+            git commit -m "chore: refresh profile artwork [skip ci]"
+            git push
+          else
+            echo 'No changes.'
+          fi

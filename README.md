@@ -17,9 +17,10 @@
 
 <br /><br />
 
-<a href="https://rblxlabs.vercel.app/">website</a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/rahmat-hadinata-iet/">linkedin</a> &nbsp; / &nbsp;
-<a href="mailto:rhnata25@gmail.com">email</a>
+<!-- Icon shapes: Font Awesome Free 6.7.2, CC BY 4.0, fontawesome.com -->
+<a href="https://rblxlabs.vercel.app/"><img src="./assets/social-website.svg" alt="Website — rblxlabs.vercel.app" width="232" /></a>
+<a href="https://www.linkedin.com/in/rahmat-hadinata-iet/"><img src="./assets/social-linkedin.svg" alt="LinkedIn — Rahmat Hadinata" width="232" /></a>
+<a href="mailto:rhnata25@gmail.com"><img src="./assets/social-email.svg" alt="Email — rhnata25@gmail.com" width="232" /></a>
 
 <br /><br />
 

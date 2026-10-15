@@ -43,14 +43,27 @@ def get_image(source, username, fetch_avatar):
     return im, 'PREVIEW ONLY / REPLACE WITH YOUR PHOTO', True
 
 
-def make_ascii(image):
+def make_ascii(image, cutout=False):
     image = ImageOps.exif_transpose(image)
     bg = Image.new('RGBA', image.size, (255,255,255,255))
     image = Image.alpha_composite(bg, image)
-    # Use contain rather than crop, preserving head/shoulders from a selfie.
-    grayscale = ImageOps.contain(image.convert('L'), (W, H), Image.Resampling.LANCZOS)
-    canvas = Image.new('L', (W, H), 255)
-    canvas.paste(grayscale, ((W-grayscale.width)//2, (H-grayscale.height)//2))
+    # Character cells are ~0.61 as wide as they are high. Stretching the
+    # source into W:H restores the image's actual square proportion on screen.
+    canvas = image.convert('L').resize((W, H), Image.Resampling.LANCZOS)
+    if cutout:
+        # Optional, centered head-and-shoulders silhouette for the supplied
+        # illustrated avatar, whose dark blurred background otherwise becomes
+        # a solid block of @ characters. Not enabled for generic images.
+        m = Image.new('L', image.size, 0)
+        d = ImageDraw.Draw(m)
+        iw, ih = image.size
+        def q(points): return [(round(x*iw/460),round(y*ih/460)) for x,y in points]
+        d.polygon(q([(0,387),(22,343),(52,307),(101,278),(145,256),(316,258),(362,286),(410,320),(460,378),(460,460),(0,460)]), fill=255)
+        d.ellipse((round(122*iw/460),round(105*ih/460),round(350*iw/460),round(312*ih/460)), fill=255)
+        d.polygon(q([(88,156),(101,106),(128,81),(131,58),(169,36),(219,23),(265,26),(298,33),(331,57),(348,83),(364,110),(373,145),(349,173),(361,220),(325,257),(132,264),(113,223)]), fill=255)
+        m = m.filter(ImageFilter.GaussianBlur(max(1,round(iw/230)))).resize((W,H),Image.Resampling.LANCZOS)
+    else:
+        m = Image.new('L',(W,H),255)
     canvas = ImageOps.autocontrast(canvas, cutoff=2)
     canvas = ImageEnhance.Contrast(canvas).enhance(1.3)
     # Non-inverted grayscale mapping: background white -> blank.
@@ -58,6 +71,9 @@ def make_ascii(image):
     for y in range(H):
         row=[]
         for x in range(W):
+            if m.getpixel((x,y)) < 115:
+                row.append(' ')
+                continue
             value = canvas.getpixel((x, y))
             idx = round(value/255 * (len(DARK_TO_LIGHT)-1))
             row.append(DARK_TO_LIGHT[idx])
@@ -65,9 +81,9 @@ def make_ascii(image):
     return rows
 
 
-def render(source, output, username, fetch_avatar):
+def render(source, output, username, fetch_avatar, cutout=False):
     image, origin, is_placeholder = get_image(source, username, fetch_avatar)
-    lines=make_ascii(image)
+    lines=make_ascii(image, cutout=cutout)
     body=[]
     body.append(f'''<svg xmlns="http://www.w3.org/2000/svg" width="{SVG_WIDTH}" height="{SVG_HEIGHT}" viewBox="0 0 {SVG_WIDTH} {SVG_HEIGHT}" role="img" aria-label="Animated ASCII portrait for Nattt">
   <title>Nattt / ASCII portrait</title>
@@ -100,6 +116,7 @@ if __name__=='__main__':
     ap.add_argument('--image', default='',help='Local photo path; preferred over avatar')
     ap.add_argument('--username', default='RahmatHadinata23758051')
     ap.add_argument('--fetch-avatar',action='store_true',help='Download your public GitHub profile image')
+    ap.add_argument('--cutout',action='store_true',help='Use silhouette crop for supplied illustrated avatar')
     ap.add_argument('--output',default='assets/portrait.svg')
     args=ap.parse_args()
-    render(args.image,args.output,args.username,args.fetch_avatar)
+    render(args.image,args.output,args.username,args.fetch_avatar,args.cutout)

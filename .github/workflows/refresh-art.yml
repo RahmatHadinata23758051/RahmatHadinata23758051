@@ -22,7 +22,7 @@ jobs:
         shell: bash
         run: |
           if [ -f assets/source-photo.png ]; then
-            python scripts/make_ascii_svg.py --image assets/source-photo.png
+            python scripts/make_ascii_svg.py --image assets/source-photo.png --cutout
           elif [ -f assets/source-photo.jpg ]; then
             python scripts/make_ascii_svg.py --image assets/source-photo.jpg
           else
@@ -30,6 +30,10 @@ jobs:
           fi
       - name: Build animated profile card
         run: python scripts/make_info_svg.py
+      - name: Render animated toolkit and signature
+        run: |
+          python scripts/make_stack_svg.py
+          python scripts/make_footer_svg.py
       - name: Fetch real contribution data and update heatmap
         run: |
           if python scripts/fetch_contributions.py; then

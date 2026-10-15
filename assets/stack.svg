@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1068" height="335" viewBox="0 0 1068 335" role="img" aria-label="Nattt tech stack: TypeScript, React, Next.js, Tailwind, Node.js, Python, Laravel, PostgreSQL, Go, Kali Linux, Burp Suite, Wireshark, Ghidra, Docker, Git and Linux">
+<title>Nattt / toolkit</title>
+<style><![CDATA[
+@keyframes arrive { 0%{opacity:0;transform:translateY(10px)} 100%{opacity:1;transform:translateY(0)} }
+@keyframes show { 0%,9%{opacity:.17} 13%,70%{opacity:1} 85%,100%{opacity:.17} }
+@keyframes travel { from{transform:translateX(-190px)} to{transform:translateX(1030px)} }
+@keyframes cursor { 50%{opacity:.2} }
+.group{opacity:0;animation:arrive .7s ease-out forwards} .pulse{animation:show 6.5s ease-in-out infinite} .trace{animation:travel 9s linear infinite} .cursor{animation:cursor 1.35s step-end infinite}
+@media (prefers-reduced-motion:reduce){.group{opacity:1;animation:none}.pulse,.trace,.cursor{animation:none}}
+]]></style>
+<defs><clipPath id="rail"><rect x="31" y="307" width="1006" height="5"/></clipPath></defs>
+<rect width="1068" height="335" rx="9" fill="#10151b"/>
+<rect x=".5" y=".5" width="1067" height="334" rx="8.5" stroke="#2a333d" fill="none"/>
+<text x="31" y="37" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="12" font-weight="600" letter-spacing="1.1" fill="#e8eef4">NATTT / TOOLKIT</text>
+<text x="1036" y="37" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="10" text-anchor="end" letter-spacing=".7" fill="#8a9aa9">04 / GROUPS</text>
+<line x1="31" y1="53" x2="1036" y2="53" stroke="#2a333d"/>
+
+<g class="group" style="animation-delay:0.15s">
+<text x="31" y="98" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#83b9ad" letter-spacing=".4">01</text>
+<text x="80" y="98" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="12" font-weight="700" fill="#e8eef4" letter-spacing="1.4">FRONTEND</text>
+<line x1="240" y1="93" x2="240" y2="103" stroke="#2a333d"/>
+<text x="265" y="99" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19" fill="#e8eef4" letter-spacing=".1">TypeScript   React   Next.js   Tailwind CSS</text>
+<line x1="31" y1="121" x2="1036" y2="121" stroke="#26313b" />
+</g>
+<g class="group" style="animation-delay:0.39s">
+<text x="31" y="164" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#83b9ad" letter-spacing=".4">02</text>
+<text x="80" y="164" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="12" font-weight="700" fill="#e8eef4" letter-spacing="1.4">BACKEND</text>
+<line x1="240" y1="159" x2="240" y2="169" stroke="#2a333d"/>
+<text x="265" y="165" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19" fill="#e8eef4" letter-spacing=".1">Node.js   Python   Laravel   PostgreSQL   Go</text>
+<line x1="31" y1="187" x2="1036" y2="187" stroke="#26313b" />
+</g>
+<g class="group" style="animation-delay:0.63s">
+<text x="31" y="230" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#83b9ad" letter-spacing=".4">03</text>
+<text x="80" y="230" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="12" font-weight="700" fill="#e8eef4" letter-spacing="1.4">SECURITY</text>
+<line x1="240" y1="225" x2="240" y2="235" stroke="#2a333d"/>
+<text x="265" y="231" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19" fill="#e8eef4" letter-spacing=".1">Kali Linux   Burp Suite   Wireshark   Ghidra</text>
+<line x1="31" y1="253" x2="1036" y2="253" stroke="#26313b" />
+</g>
+<g class="group" style="animation-delay:0.87s">
+<text x="31" y="296" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#83b9ad" letter-spacing=".4">04</text>
+<text x="80" y="296" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="12" font-weight="700" fill="#e8eef4" letter-spacing="1.4">WORKFLOW</text>
+<line x1="240" y1="291" x2="240" y2="301" stroke="#2a333d"/>
+<text x="265" y="297" font-family="Inter,Arial,Helvetica,sans-serif" font-size="19" fill="#e8eef4" letter-spacing=".1">Docker   Git   Linux</text>
+<line x1="31" y1="319" x2="1036" y2="319" stroke="#26313b" />
+</g>
+<line x1="31" y1="309" x2="1036" y2="309" stroke="#2a333d" />
+<g clip-path="url(#rail)"><rect class="trace" x="31" y="307" width="194" height="3" fill="#83b9ad" opacity=".75"/></g>
+<text x="31" y="329" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="8.5" fill="#8a9aa9" letter-spacing="1.2">LANGUAGES / FRAMEWORKS / TOOLS</text>
+<text x="1036" y="329" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" text-anchor="end" font-size="8.5" fill="#83b9ad">ACTIVE STACK <tspan class="cursor">_</tspan></text>
+</svg>

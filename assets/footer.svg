@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1068 224" width="1068" height="224" role="img" aria-label="Nattt animated footer signature">
+<title>Nattt / end of file</title>
+<style><![CDATA[
+@keyframes flow{ from{stroke-dashoffset:540}to{stroke-dashoffset:0} }
+@keyframes fadeup{from{opacity:0;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
+@keyframes flicker{0%,84%,100%{opacity:.21} 88%,93%{opacity:1}}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(14px)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:.15}}
+.path{stroke-dasharray:8 24;animation:flow 18s linear infinite}
+.label{opacity:0;animation:fadeup 1s ease-out forwards}
+.dot{animation:flicker 7s step-end infinite}
+.nudge{animation:nudge 6s ease-in-out infinite}.cursor{animation:blink 1.35s steps(1,end) infinite}
+@media(prefers-reduced-motion:reduce){.path,.label,.dot,.nudge,.cursor{animation:none}.label{opacity:1}}
+]]></style>
+<defs>
+  <linearGradient id="word" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f0f6fa"/><stop offset="1" stop-color="#869bab"/></linearGradient>
+  <clipPath id="clip"><rect x="28" y="45" width="1011" height="131"/></clipPath>
+</defs>
+<rect width="1068" height="224" rx="9" fill="#10151b"/>
+<rect x=".5" y=".5" width="1067" height="223" rx="8.5" stroke="#2a333d" fill="none"/>
+<text x="32" y="29" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#a8b8c6">NATTT / SIGNATURE</text>
+<text x="1035" y="29" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="10" text-anchor="end" letter-spacing="1" fill="#8195a5">END OF FILE</text>
+<line x1="31" y1="43" x2="1036" y2="43" stroke="#2a333d"/>
+<g clip-path="url(#clip)">
+<path d="M 590,72.5 L 602,75.0 L 614,76.6 L 626,77.1 L 638,76.7 L 650,75.9 L 662,75.2 L 674,75.0 L 686,75.4 L 698,76.1 L 710,76.9 L 722,77.0 L 734,76.2 L 746,74.4 L 758,71.7 L 770,68.7 L 782,65.9 L 794,63.9 L 806,63.0 L 818,63.1 L 830,63.7 L 842,64.5 L 854,65.0 L 866,64.8 L 878,64.2 L 890,63.4 L 902,62.9 L 914,63.3 L 926,64.7 L 938,67.1 L 950,70.1 L 962,73.0 L 974,75.4 L 986,76.7 L 998,77.1 L 1010,76.6 L 1022,75.8 L 1034,75.1" class="path" stroke="#83b9ad" stroke-opacity="0.430" stroke-width="1.05" fill="none" style="animation-delay:-0.0s"/>
+<path d="M 590,95.2 L 602,95.4 L 614,94.7 L 626,93.5 L 638,92.3 L 650,91.6 L 662,91.5 L 674,91.9 L 686,92.3 L 698,92.2 L 710,91.2 L 722,89.3 L 734,86.6 L 746,83.6 L 758,81.0 L 770,79.2 L 782,78.5 L 794,78.9 L 806,80.0 L 818,81.2 L 830,82.2 L 842,82.5 L 854,82.3 L 866,81.9 L 878,81.7 L 890,82.3 L 902,83.8 L 914,86.3 L 926,89.2 L 938,92.0 L 950,94.2 L 962,95.3 L 974,95.3 L 986,94.5 L 998,93.2 L 1010,92.1 L 1022,91.6 L 1034,91.6" class="path" stroke="#83b9ad" stroke-opacity="0.385" stroke-width="1.05" fill="none" style="animation-delay:-1.4s"/>
+<path d="M 590,112.1 L 602,110.4 L 614,108.8 L 626,107.6 L 638,107.1 L 650,107.2 L 662,107.3 L 674,107.0 L 686,106.0 L 698,104.2 L 710,101.6 L 722,98.8 L 734,96.4 L 746,94.9 L 758,94.6 L 770,95.4 L 782,96.9 L 794,98.6 L 806,100.0 L 818,100.7 L 830,100.9 L 842,100.7 L 854,100.8 L 866,101.4 L 878,103.0 L 890,105.3 L 902,108.1 L 914,110.7 L 926,112.6 L 938,113.4 L 950,113.1 L 962,111.8 L 974,110.1 L 986,108.5 L 998,107.5 L 1010,107.1 L 1022,107.2 L 1034,107.3" class="path" stroke="#83b9ad" stroke-opacity="0.340" stroke-width="1.05" fill="none" style="animation-delay:-2.8s"/>
+<path d="M 590,124.7 L 602,123.1 L 614,122.3 L 626,122.1 L 638,122.1 L 650,121.8 L 662,120.9 L 674,119.2 L 686,116.8 L 698,114.4 L 710,112.3 L 722,111.2 L 734,111.3 L 746,112.5 L 758,114.4 L 770,116.5 L 782,118.3 L 794,119.4 L 806,119.9 L 818,119.9 L 830,120.0 L 842,120.6 L 854,122.0 L 866,124.2 L 878,126.7 L 890,129.0 L 902,130.5 L 914,130.9 L 926,130.1 L 938,128.4 L 950,126.3 L 962,124.3 L 974,122.9 L 986,122.2 L 998,122.1 L 1010,122.1 L 1022,121.7 L 1034,120.6" class="path" stroke="#83b9ad" stroke-opacity="0.295" stroke-width="1.05" fill="none" style="animation-delay:-4.2s"/>
+<path d="M 590,137.2 L 602,136.9 L 614,136.9 L 626,136.7 L 638,136.0 L 650,134.5 L 662,132.6 L 674,130.4 L 686,128.8 L 698,128.1 L 710,128.6 L 722,130.2 L 734,132.5 L 746,135.0 L 758,137.1 L 770,138.5 L 782,139.1 L 794,139.1 L 806,139.2 L 818,139.6 L 830,140.8 L 842,142.6 L 854,144.7 L 866,146.6 L 878,147.8 L 890,147.8 L 902,146.6 L 914,144.5 L 926,142.0 L 938,139.7 L 950,138.0 L 962,137.1 L 974,136.9 L 986,136.9 L 998,136.6 L 1010,135.8 L 1022,134.2 L 1034,132.1" class="path" stroke="#83b9ad" stroke-opacity="0.250" stroke-width="1.05" fill="none" style="animation-delay:-5.6s"/>
+<path d="M 590,151.8 L 602,151.8 L 614,151.4 L 626,150.4 L 638,148.8 L 650,147.1 L 662,145.9 L 674,145.6 L 686,146.5 L 698,148.4 L 710,151.1 L 722,153.9 L 734,156.2 L 746,157.7 L 758,158.3 L 770,158.3 L 782,158.1 L 794,158.3 L 806,159.1 L 818,160.5 L 830,162.2 L 842,163.7 L 854,164.4 L 866,164.0 L 878,162.5 L 890,160.0 L 902,157.2 L 914,154.7 L 926,152.8 L 938,151.9 L 950,151.7 L 962,151.8 L 974,151.8 L 986,151.3 L 998,150.1 L 1010,148.5 L 1022,146.8 L 1034,145.8" class="path" stroke="#83b9ad" stroke-opacity="0.205" stroke-width="1.05" fill="none" style="animation-delay:-7.0s"/>
+<path d="M 590,167.4 L 602,166.8 L 614,165.7 L 626,164.5 L 638,163.7 L 650,163.7 L 662,164.9 L 674,167.1 L 686,170.0 L 698,172.9 L 710,175.3 L 722,176.8 L 734,177.3 L 746,177.2 L 758,176.7 L 770,176.5 L 782,176.9 L 794,177.8 L 806,179.1 L 818,180.1 L 830,180.4 L 842,179.7 L 854,177.8 L 866,175.2 L 878,172.2 L 890,169.5 L 902,167.7 L 914,166.8 L 926,166.7 L 938,167.1 L 950,167.5 L 962,167.3 L 974,166.6 L 986,165.4 L 998,164.3 L 1010,163.6 L 1022,163.9 L 1034,165.3" class="path" stroke="#83b9ad" stroke-opacity="0.160" stroke-width="1.05" fill="none" style="animation-delay:-8.4s"/>
+<circle class="dot" cx="620.0" cy="86.0" r="1.6" fill="#b9dacf" style="animation-delay:-0.00s"/>
+<circle class="dot" cx="633.2" cy="92.9" r="1.05" fill="#b9dacf" style="animation-delay:-0.47s"/>
+<circle class="dot" cx="646.4" cy="109.7" r="1.05" fill="#b9dacf" style="animation-delay:-0.94s"/>
+<circle class="dot" cx="659.6" cy="126.7" r="1.6" fill="#b9dacf" style="animation-delay:-1.41s"/>
+<circle class="dot" cx="672.8" cy="134.0" r="1.05" fill="#b9dacf" style="animation-delay:-1.88s"/>
+<circle class="dot" cx="686.0" cy="127.4" r="1.05" fill="#b9dacf" style="animation-delay:-2.35s"/>
+<circle class="dot" cx="699.2" cy="110.8" r="1.6" fill="#b9dacf" style="animation-delay:-2.82s"/>
+<circle class="dot" cx="712.4" cy="93.7" r="1.05" fill="#b9dacf" style="animation-delay:-3.29s"/>
+<circle class="dot" cx="725.6" cy="86.0" r="1.05" fill="#b9dacf" style="animation-delay:-3.76s"/>
+<circle class="dot" cx="738.8" cy="92.2" r="1.6" fill="#b9dacf" style="animation-delay:-4.23s"/>
+<circle class="dot" cx="752.0" cy="108.7" r="1.05" fill="#b9dacf" style="animation-delay:-4.70s"/>
+<circle class="dot" cx="765.2" cy="125.9" r="1.05" fill="#b9dacf" style="animation-delay:-5.17s"/>
+<circle class="dot" cx="778.4" cy="133.9" r="1.6" fill="#b9dacf" style="animation-delay:-5.64s"/>
+<circle class="dot" cx="791.6" cy="128.1" r="1.05" fill="#b9dacf" style="animation-delay:-6.11s"/>
+<circle class="dot" cx="804.8" cy="111.8" r="1.05" fill="#b9dacf" style="animation-delay:-6.58s"/>
+<circle class="dot" cx="818.0" cy="94.5" r="1.6" fill="#b9dacf" style="animation-delay:-7.05s"/>
+<circle class="dot" cx="831.2" cy="86.1" r="1.05" fill="#b9dacf" style="animation-delay:-7.52s"/>
+<circle class="dot" cx="844.4" cy="91.5" r="1.05" fill="#b9dacf" style="animation-delay:-7.99s"/>
+<circle class="dot" cx="857.6" cy="107.7" r="1.6" fill="#b9dacf" style="animation-delay:-8.46s"/>
+<circle class="dot" cx="870.8" cy="125.1" r="1.05" fill="#b9dacf" style="animation-delay:-8.93s"/>
+<circle class="dot" cx="884.0" cy="133.9" r="1.05" fill="#b9dacf" style="animation-delay:-9.40s"/>
+<circle class="dot" cx="897.2" cy="128.8" r="1.6" fill="#b9dacf" style="animation-delay:-9.87s"/>
+<circle class="dot" cx="910.4" cy="112.8" r="1.05" fill="#b9dacf" style="animation-delay:-10.34s"/>
+<circle class="dot" cx="923.6" cy="95.3" r="1.05" fill="#b9dacf" style="animation-delay:-10.81s"/>
+<circle class="dot" cx="936.8" cy="86.2" r="1.6" fill="#b9dacf" style="animation-delay:-11.28s"/>
+<circle class="dot" cx="950.0" cy="90.9" r="1.05" fill="#b9dacf" style="animation-delay:-11.75s"/>
+<circle class="dot" cx="963.2" cy="106.6" r="1.05" fill="#b9dacf" style="animation-delay:-12.22s"/>
+<circle class="dot" cx="976.4" cy="124.3" r="1.6" fill="#b9dacf" style="animation-delay:-12.69s"/>
+<circle class="dot" cx="989.6" cy="133.7" r="1.05" fill="#b9dacf" style="animation-delay:-13.16s"/>
+<circle class="dot" cx="1002.8" cy="129.4" r="1.05" fill="#b9dacf" style="animation-delay:-13.63s"/>
+<circle class="dot" cx="1016.0" cy="113.9" r="1.6" fill="#b9dacf" style="animation-delay:-14.10s"/>
+<circle class="dot" cx="1029.2" cy="96.1" r="1.05" fill="#b9dacf" style="animation-delay:-14.57s"/>
+<circle class="dot" cx="1042.4" cy="86.4" r="1.05" fill="#b9dacf" style="animation-delay:-15.04s"/>
+</g>
+<g class="label" style="animation-delay:.15s"><text x="28" y="148" font-family="Inter,Arial,Helvetica,sans-serif" font-size="108" font-weight="800" letter-spacing="-7" fill="url(#word)">Nattt<tspan fill="#83b9ad">.</tspan></text></g>
+<line x1="31" y1="183" x2="1036" y2="183" stroke="#2a333d"/>
+<text x="31" y="207" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="10.8" fill="#8c9daa">RAHMAT HADINATA</text>
+<text x="435" y="207" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="10" fill="#738797">INTERNET ENGINEERING TECHNOLOGY</text>
+<text x="1035" y="207" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" font-size="10.8" fill="#a6c9c0">EOF <tspan class="cursor">▌</tspan></text>
+</svg>

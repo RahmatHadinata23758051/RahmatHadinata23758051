@@ -11,11 +11,6 @@
 </tr>
 </table>
 
-<br />
-
-<img src="./assets/stack.svg" width="100%" alt="Nattt toolkit: frontend, backend, security and workflow" />
-
-<br /><br />
 
 <!-- Icon shapes: Font Awesome Free 6.7.2, CC BY 4.0, fontawesome.com -->
 <a href="https://rblxlabs.vercel.app/"><img src="./assets/social-website.svg" alt="Website — rblxlabs.vercel.app" width="232" /></a>

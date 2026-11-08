@@ -11,9 +11,9 @@
 <text x="1038" y="37" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" fill="#8192a4" font-size="11">53 WEEKS</text>
 <line x1="30" x2="1038" y1="53" y2="53" stroke="#2a333d"/>
 <rect class="day" x="63" y="78" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:0.180s"><title>2025-11-03: level 0</title></rect>
-<rect class="day" x="63" y="96" width="12" height="12" rx="3" fill="#325247" style="animation-delay:0.215s"><title>2025-11-04: level 1</title></rect>
+<rect class="day" x="63" y="96" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:0.215s"><title>2025-11-04: level 0</title></rect>
 <rect class="day" x="63" y="114" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:0.250s"><title>2025-11-05: level 0</title></rect>
-<rect class="day" x="63" y="132" width="12" height="12" rx="3" fill="#325247" style="animation-delay:0.285s"><title>2025-11-06: level 1</title></rect>
+<rect class="day" x="63" y="132" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:0.285s"><title>2025-11-06: level 0</title></rect>
 <rect class="day" x="63" y="150" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:0.320s"><title>2025-11-07: level 0</title></rect>
 <rect class="day" x="63" y="168" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:0.355s"><title>2025-11-08: level 0</title></rect>
 <rect class="day" x="63" y="186" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:0.390s"><title>2025-11-09: level 0</title></rect>
@@ -379,7 +379,8 @@
 <rect class="day" x="999" y="114" width="12" height="12" rx="3" fill="#407762" style="animation-delay:1.966s"><title>2026-11-04: level 2</title></rect>
 <rect class="day" x="999" y="132" width="12" height="12" rx="3" fill="#60a287" style="animation-delay:2.001s"><title>2026-11-05: level 3</title></rect>
 <rect class="day" x="999" y="150" width="12" height="12" rx="3" fill="#325247" style="animation-delay:2.036s"><title>2026-11-06: level 1</title></rect>
-<rect class="day" x="999" y="168" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:2.071s"><title>2026-11-07: level 0</title></rect>
+<rect class="day" x="999" y="168" width="12" height="12" rx="3" fill="#325247" style="animation-delay:2.071s"><title>2026-11-07: level 1</title></rect>
+<rect class="day" x="999" y="186" width="12" height="12" rx="3" fill="#26323c" style="animation-delay:2.106s"><title>2026-11-08: level 0</title></rect>
 <line x1="30" y1="223" x2="1038" y2="223" stroke="#2a333d"/>
-<text x="30" y="244" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10" fill="#8192a4">PUBLIC GITHUB DATA / UPDATED 2026-11-07</text>
+<text x="30" y="244" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10" fill="#8192a4">PUBLIC GITHUB DATA / UPDATED 2026-11-08</text>
 <text x="1038" y="244" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10" fill="#9caebe">LESS / MORE</text></svg>
